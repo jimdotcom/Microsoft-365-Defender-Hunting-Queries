@@ -4,7 +4,11 @@ languages:
 - kusto
 products: 
 - Microsoft 365 Defender
-description: "Microsoft 365 Defender repository for Advanced Hunting"
+description: "Forked Microsoft 365 Defender repository for Advanced Hunting"
+---
+# Forked from Microsoft 365 Defender's Threat hunting repo
+This repo is forked from **[Microsoft's official repo](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)**. Feel free to contribute here if you'd prefer to not fork the repo yourself.
+
 ---
 # Advanced hunting queries for Microsoft 365 Defender
 This repo contains sample queries for **[advanced hunting](https://security.microsoft.com/hunting) in [Microsoft 365 Defender](https://aka.ms/mtp-docs)**. With these sample queries, you can start to experience advanced hunting, including the types of data that it covers and the query language it supports. You can also explore a variety of attack techniques and how they may be surfaced through advanced hunting.
